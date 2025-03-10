@@ -1,8 +1,8 @@
-package case7;
+
 
 import java.util.ArrayList;
 
-public class cas7 {
+public class BankSolution {
     public static void main(String[] args) {
         Account myAccount1 = new Account("mohamed", 20, 50000);
         Account myAccount2 = new Account("Ahmed", 23, 34000);

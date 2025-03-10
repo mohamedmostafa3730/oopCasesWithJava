@@ -1,8 +1,8 @@
-package case5;
+
 
 import java.util.ArrayList;
 
-public class case5 {
+public class BookSolution {
     public static void main(String[] args) {
         Book bookOne = new Book("The Home", "Ahmed", 1);
         Book bookTWo = new Book("Why sleep?", "mostafa", 2);

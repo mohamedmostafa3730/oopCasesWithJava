@@ -1,6 +1,6 @@
-package case1;
 
-public class case1 {
+
+public class PersonSolution {
 
     public static void main(String[] args) {
 

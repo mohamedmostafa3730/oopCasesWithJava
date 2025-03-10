@@ -1,8 +1,8 @@
-package case10;
+
 
 import java.util.ArrayList;
 
-public class case10 {
+public class StudentSolution {
     public static void main(String[] args) {
         Student s1 = new Student("Mohamed");
         s1.addCourses("English");

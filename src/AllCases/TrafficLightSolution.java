@@ -1,6 +1,6 @@
-package case8;
 
-public class case8 {
+
+public class TrafficLightSolution {
     public static void main(String[] args) {
         System.out.println("33");
     }

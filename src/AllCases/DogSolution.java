@@ -1,5 +1,5 @@
 
-public class case2 {
+public class DogSolution {
 
     public static void main(String[] args) {
         Dog dog1 = new Dog("tet", "null");

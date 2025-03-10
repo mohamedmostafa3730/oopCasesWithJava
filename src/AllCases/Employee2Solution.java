@@ -1,9 +1,9 @@
-package case9;
+
 
 import java.time.LocalDate;
 import java.time.Period;
 
-public class case9 {
+public class Employee2Solution {
     public static void main(String[] args) {
         Employee e1 = new Employee("Mohamed", 2000, LocalDate.parse("2021-04-01"));
         Employee e2 = new Employee("Ahmed", 5000, LocalDate.parse("2020-01-01"));

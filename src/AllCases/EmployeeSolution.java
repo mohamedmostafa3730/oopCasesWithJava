@@ -1,6 +1,6 @@
-package case6;
 
-public class case6 {
+
+public class EmployeeSolution {
     public static void main(String[] args) {
         Employee e1 = new Employee("Mohamed", "sales", 5000);
         Employee e2 = new Employee("ahmed", "programer", 10000);

@@ -1,6 +1,6 @@
-package case4;
 
-public class case4 {
+
+public class Circlesolution {
     public static void main(String[] args) {
         Circle circle1 = new Circle(3);
         circle1.print();
