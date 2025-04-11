@@ -1,3 +1,4 @@
+package AllCases;
 
 public class DogSolution {
 

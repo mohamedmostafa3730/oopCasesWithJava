@@ -1,3 +1,5 @@
+package AllCases;
+
 
 
 public class TrafficLightSolution {
