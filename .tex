@@ -1,0 +1,43 @@
+School Management System
+    Manages students, teachers, subjects, and classes.
+        Key Classes:
+            •Student: name, student_id, enrolled_subjects
+            •Teacher: name, teacher_id, subjects_taught
+            •Subject: name, subject_code, teacher
+            •Classroom: class_id, subject, students
+
+super Classes:
+1. Person
+    Attributes:
+        •name
+        •id
+        •role
+2. rooms
+    Attributes:
+        •class_id
+        •subject
+        •students
+
+sup Classes:
+
+1. Teacher extends Person
+    Attributes:
+        •name
+        •teacher_id
+        •subjects_taught
+
+2. Student extends Person
+    Attributes:
+        •name
+        •student_id
+        •enrolled_subjects
+3. Subject 
+    Attributes:
+        •name
+        •code
+        •teacher
+4. Classroom extends rooms
+    Attributes:
+        •class_id
+        •subject
+        •students
